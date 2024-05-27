@@ -1,5 +1,3 @@
-# Terms of Service / Условия использования
-
 # Tanki Croco Terms of Service
 
 Welcome to Tanki Croco, a Discord bot that allows you to play the «Crocodile» game with your friends. Before you start using the bot, please read our Terms of Use.
